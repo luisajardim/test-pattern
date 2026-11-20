@@ -1,0 +1,2 @@
+# PDFs e outros binarios nao devem sofrer conversao de fim de linha
+*.pdf binary
